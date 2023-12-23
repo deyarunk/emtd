@@ -3,4 +3,4 @@ Motivated by data security and the need for a highly accurate Malicious Traffic 
 
 In this repository, you will find a Python implementation of EMTD that allows you to run experiments simulating different configurations of training an autoencoder and Bi-GRU-based models for malicious traffic detection in a centralized system. The experiments are performed on a realistic cybersecurity dataset, Edge-IIoTSet.<br />   
 
-The code will be available upon publication
+The code will be available upon publication.
